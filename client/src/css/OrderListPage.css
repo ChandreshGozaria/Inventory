@@ -1,0 +1,22 @@
+.order-table {
+    width: 100%; /* Make the table full width */
+    border-collapse: collapse; /* Collapse borders */
+}
+
+.order-table th,
+.order-table td {
+    padding: 12px; /* Add padding to table cells */
+    border: 1px solid #ddd; /* Add border to table cells */
+}
+
+.order-table th {
+    background-color: #f2f2f2; /* Background color for table header */
+}
+
+.order-table tr:nth-child(even) {
+    background-color: #f2f2f2; /* Alternate row color */
+}
+
+.order-table tr:hover {
+    background-color: #ddd; /* Hover effect */
+}

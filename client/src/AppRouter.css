@@ -1,0 +1,18 @@
+/* AppRouter.css */
+
+/* Style the container to center its content */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Make the container fill the entire viewport height */
+    background-color: #f0f0f0; /* Set background color */
+}
+
+/* Style the header */
+.header {
+    text-align: center; /* Center the text */
+    font-size: 24px; /* Adjust font size as needed */
+    margin-top: 20px; /* Add some margin to the top */
+    margin-bottom: 40px; /* Add some margin to the bottom */
+}
